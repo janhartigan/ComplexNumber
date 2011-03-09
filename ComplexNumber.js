@@ -89,7 +89,7 @@ ComplexNumber.prototype = {
 	},
 	
 	/**
-	 * The string representation of a complex number (i.e. 4 + 3i)
+	 * The string representation of a complex number (e.g. 4 + 3i)
 	 * 
 	 * @return String
 	 */
