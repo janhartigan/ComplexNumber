@@ -80,11 +80,11 @@ ComplexNumber.prototype = {
 	},
 	
 	/**
-	 * The square of the modulus of a complex number
+	 * The modulus of a complex number
 	 * 
 	 * @return number
 	 */
-	modSquared: function() {
+	mod: function() {
 	    return Math.sqrt(this.real * this.real + this.imaginary * this.imaginary);
 	},
 	
