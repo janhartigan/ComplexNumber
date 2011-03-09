@@ -32,7 +32,7 @@ complex.toString(); //returns "3 + 5i"
 
 ## methods
 
-The methods include mathematical operations (add, subtract, multiply, modulus) and a `toString()` function that gives the string representation of the complex number (e.g. 3 + 5i)
+The methods include mathematical operations (`add()`, `sub()`, `mult()`, `mod()`) and a `toString()` function that gives the string representation of the complex number (e.g. 3 + 5i)
 
 ### add
 
